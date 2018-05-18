@@ -6,3 +6,4 @@
 #### Different models are tried . Also plotted their accuracy curves to understand the variation of parameters wrt accuracy. The parameters were tuned using repetitive piecewise gridsearch to compute things efficiently wrt time. Support Vector Machines are taken much care off till end and gave a cross-validated accuracy of 97.004 %.
 #### Further a train test spilt accuracy of 99.36 % given by XGBoost Classifier.
   
+   
