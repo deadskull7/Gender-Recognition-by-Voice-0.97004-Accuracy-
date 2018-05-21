@@ -1,4 +1,4 @@
-# Gender-Recognition-by-Voice-0.97004-Accuracy-
+# Gender-Recognition-by-Voice-97.004 %-Accuracy (SVM) and 100 % Accuracy (Neural Network)-
 
 #### The voices of different people are tested for 20 properties. These properties include mean-frequency, standard deviation, kurtosis, skew, mode frequency , modulation index , fundamental freq....,etc . My work includes the demonstration of the much probable properties showcased by females as well as males.
 #### The study of important attributes for voice recognition and their varied concentration in each gender using the inferences drawn from the various regression plots, pair plots, scatter plots , etc.
